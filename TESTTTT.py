@@ -11,4 +11,7 @@ def summation(n1, n2):
 def prinntt
     print("GGEZ")
 
+def prinnttagain
+    print("GGWP")
+
 main(int(input()), int(input()))
