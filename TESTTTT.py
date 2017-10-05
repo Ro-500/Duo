@@ -14,4 +14,7 @@ def prinntt
 def prinnttagain
     print("GGWP")
 
+def prinnttaginandagain
+    print("Noob Orz")
+
 main(int(input()), int(input()))
