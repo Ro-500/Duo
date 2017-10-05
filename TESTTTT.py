@@ -9,5 +9,3 @@ def summation(n1, n2):
 	return n1 + n2
 
 main(int(input()), int(input()))
-
-cal(int(input()), int(input()))
