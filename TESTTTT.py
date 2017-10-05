@@ -6,7 +6,16 @@ def main(num1, num2):
 def subtraction(n1, n2):
     return n1 - n2
 def summation(n1, n2):
-	return n1 + n2
+    return n1 + n2
+
+def prinntt
+    print("GGEZ")
+
+def prinnttagain
+    print("GGWP")
+
+def prinnttaginandagain
+    print("Noob Orz")
 
 def Test():
 	print("Hellooooo")
